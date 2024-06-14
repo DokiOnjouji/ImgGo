@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<gameList>
+	
+	<game>
+		<path>./牧场物语双子村原始版本 汉化2.3.3ds</path>
+		<name>001 牧场物语双子村</name>
+		<image>./images/牧场物语双子村.jpg</image>
+	</game>
+	<game>
+		<path>./街头霸王 IV.3ds</path>
+		<name>002 街头霸王 IV</name>
+		<image>./images/SuperStreetFighterIV.jpg</image>
+	</game>
+	<game>
+		<path>./塞尔达无双.3ds</path>
+		<name>003 塞尔达无双</name>
+		<image>./images/Zelda Musou - Hyrule All-Stars (Japan).jpg</image>
+	</game>
+	<game>
+		<path>./塞尔达传说 众神的三角之力2.3ds</path>
+		<name>004 塞尔达传说 众神的三角之力2</name>
+		<image>./images/塞尔达传说 众神的三角之力2.jpg</image>
+	</game>
+	<game>
+		<path>./生化危机启示录.3ds</path>
+		<name>005 生化危机启示录</name>
+		<image>./images/Resident Evil - Revelations (Europe) (En,Ja,Fr,De,Es,It).jpg</image>
+	</game>
+	<game>
+		<path>./索尼克世代.3ds</path>
+		<name>006 索尼克世代</name>
+		<image>./images/Sonic Boom - Shattered Crystal (US).jpg</image>
+	</game>
+	<game>
+		<path>./星之卡比 吸入大作战.3ds</path>
+		<name>007 星之卡比 吸入大作战</name>
+		<image>./images/星之卡比 吸入大作战.jpg</image>
+	</game>
+	<game>
+		<path>./皇牌空战 3D.3ds</path>
+		<name>008 皇牌空战 3D</name>
+		<image>./images/皇牌空战 3D.jpg</image>
+	</game>
+	<game>
+		<path>./铲子骑士.3ds</path>
+		<name>004 铲子骑士</name>
+		<image>./images/铲子骑士.jpg</image>
+	</game>
+
+	<game>
+		<path>./帝帝帝大王的帝帝帝跃动.3ds</path>
+		<name>帝帝帝大王的帝帝帝跃动</name>
+		<image>./images/帝帝帝大王的帝帝帝跃动.jpg</image>
+	</game>
+	<game>
+		<path>./洞窟物语.3ds</path>
+		<name>洞窟物语</name>
+		<image>./images/洞窟物语.jpg</image>
+	</game>
+	<game>
+		<path>./符文工房4.3ds</path>
+		<name>符文工房4</name>
+		<image>./images/Rune Factory 4.jpg</image>
+	</game>
+	<game>
+		<path>./极限脱出-善人死亡.3ds</path>
+		<name>极限脱出-善人死亡</name>
+		<image>./images/Zero Escape - Virtue's Last Reward.jpg</image>
+	</game>
+	<game>
+		<path>./雷曼-起源.3ds</path>
+		<name>雷曼-起源</name>
+		<image>./images/Rayman Origins.jpg</image>
+	</game>
+	<game>
+		<path>./魔女与勇者.3ds</path>
+		<name>魔女与勇者</name>
+		<image>./images/魔女与勇者.jpg</image>
+	</game>
+	<game>
+		<path>./魔女与勇者2 汉化 1.2修复版.3ds</path>
+		<name>魔女与勇者2</name>
+		<image>./images/魔女与勇者2.jpg</image>
+	</game>
+	<game>
+		<path>./逆转123HD.3ds</path>
+		<name>逆转123HD</name>
+		<image>./images/逆转123HD.jpg</image>
+	</game>
+	<game>
+		<path>./喷神james大冒险.3ds</path>
+		<name>喷神james大冒险</name>
+		<image>./images/AVGN Adventure.jpg</image>
+	</game>
+	<game>
+		<path>./强力转换2.3ds</path>
+		<name>强力转换2</name>
+		<image>./images/Mighty Switch Force!2.jpg</image>
+	</game>
+	<game>
+		<path>./血污月之诅咒.3ds</path>
+		<name>血污月之诅咒</name>
+		<image>./images/血污月之诅咒.jpg</image>
+	</game>
+	<game>
+		<path>./炸弹人强尼.3ds</path>
+		<name>炸弹人强尼</name>
+		<image>./images/Johnny Dynamite.jpg</image>
+	</game>
+	<game>
+		<path>./0402 - Puzzler World 2012 3D (EU)(M5).cci</path>
+		<name>谜题世界2012</name>
+		<image>./images/Puzzler World 2012 3D.jpg</image>
+	</game>
+	<game>
+		<path>./0415 - Boulder Dash-XL 3D (US).cci</path>
+		<name>钻石小子</name>
+		<image>./images/Boulder Dash-XL 3D (US).jpg</image>
+	</game>
+	<game>
+		<path>./0430 - Kokuga (JP).cci</path>
+		<name>哭牙</name>
+		<image>./images/Kokuga (JP).jpg</image>
+	</game>
+	<game>
+		<path>./0435 - Alien Chaos 3D (US).cci</path>
+		<name>外星混沌3D</name>
+		<image>./images/Alien Chaos 3D.jpg</image>
+	</game>
+	<game>
+		<path>./0444 - Trash Pack, The (US).cci</path>
+		<name>垃圾桶</name>
+		<image>./images/Trash Pack, The.jpg</image>
+	</game>
+	<game>
+		<path>./0473 - Regular Show - Mordecai and Rigby in 8-bit Land (US).cci</path>
+		<name>天兵公园 鸟哥与阿天在8位元世界</name>
+		<image>./images/Regular Show - Mordecai and Rigby in 8-bit Land.jpg</image>
+	</game>
+
+	<game>
+		<path>./0499 - Battleship (US)(M2).cci</path>
+		<name>战舰</name>
+		<image>./images/Battleship.jpg</image>
+	</game>
+	<game>
+		<path>./1778 - River City - Rival Showdown (USA).cci</path>
+		<name>热血物语 SP</name>
+		<image>./images/River City - Rival Showdown.jpg</image>
+	</game>
+		<game>
+		<path>./赛尔达传说-时之笛 3D.cci</path>
+		<name>009 塞尔达传说-时之笛 3D</name>
+		<image>./images/赛尔达传说-时之笛 3D.jpg</image>
+	</game>
+		<game>
+		<path>./塞尔达传说-姆祖拉的面具3D.cci</path>
+		<name>010 塞尔达传说-姆祖拉的面具3D</name>
+		<image>./images/塞尔达传说-姆祖拉的面具3D.jpg</image>
+	</game>
+		<game>
+		<path>./赛尔达传说-众神的三角之力2.cci</path>
+		<name>011 塞尔达传说-众神的三角之力2</name>
+		<image>./images/塞尔达传说 众神的三角之力2.jpg</image>
+	</game>
+		<game>
+		<path>./星之卡比 三重彩.cci</path>
+		<name>012 星之卡比 三重彩</name>
+		<image>./images/星之卡比 三重彩.jpg</image>
+	</game>
+
+</gameList>
